@@ -41,6 +41,6 @@ The dashboard provides several actionable business insights:
  * High-Value Customers: Harikansh is the top customer by sales amount, suggesting potential for a targeted customer retention program.
 7) Screenshot / Demos
  * Screenshot: The uploaded image is the primary screenshot/demo of the complete dashboard.
-   ![DASHBOARD PREVIEWS]()
+   ![DASHBOARD PREVIEWS](https://github.com/manthansawant1720/MADHAV-E-COMMERCE-SALES-DASHBOARD-/blob/main/Screenshot%202025-10-25%20030212.png)
 
 
